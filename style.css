@@ -1,0 +1,33 @@
+/* Global Resets */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  text-rendering: optimizeSpeed;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Color Palete
+#EA5454, #44D3D2, #FCAE4A, #549EF2,#4D4F62
+
+Font: Poppins 
+
+Size
+13, 15,  20. 36
+
+*/
